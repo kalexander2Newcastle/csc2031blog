@@ -1,1 +1,4 @@
-Flask~=2.2.2
+Flask
+WTForms
+Flask-WTF
+email_validator
